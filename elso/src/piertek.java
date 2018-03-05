@@ -31,13 +31,7 @@ public class piertek {
 		System.out.println("pi / 2 erteke:" + pi*2);
 		System.out.println("pi: "+pi *4);
 		
-		//Faktorialis
 		
-		int szam=1;
-		for (int i = 0; i < 10; i++) 
-		{
-			szam= szam*
-		}
 	}
 
 }
